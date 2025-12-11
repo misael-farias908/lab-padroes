@@ -1,2 +1,2 @@
-def configurar_banco ():
+def configurar_banco():
   pass
