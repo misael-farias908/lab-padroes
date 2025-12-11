@@ -1,2 +1,2 @@
 def configurar_banco():
-  pass
+  return f"conectado ao {DB_HOST}"
